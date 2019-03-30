@@ -9,10 +9,10 @@
    <b>make sure to tick the checkbox "Add Python 3.7 to PATH" in installer </b>
    
 
-   ##~\$python --version
+   ~\$python --version
 
-   ##Expected output
-   ##(~\$Python 3.6.2) #Python 3.7.2 is also acceptable
+   Expected output
+   (~\$Python 3.6.2) #Python 3.7.2 is also acceptable
 
 2. Install Pip for Python 3. After installation check the version
 
