@@ -7,7 +7,8 @@
    (if you have no python installed get the installer here https://www.python.org/downloads/release/python-372/)
 
    <b>make sure to tick the checkbox "Add Python 3.7 to PATH" in installer </b>
-   
+   ![image](https://user-images.githubusercontent.com/30989726/55272839-07f24700-52fe-11e9-8cf1-90ef0a7cc81f.png)
+
 
    ~\$python --version
 
