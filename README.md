@@ -9,7 +9,8 @@
    <b>make sure to tick the checkbox "Add Python 3.7 to PATH" in installer </b>
    ![image](https://user-images.githubusercontent.com/30989726/55272839-07f24700-52fe-11e9-8cf1-90ef0a7cc81f.png)
 
-
+   This is to ensure that python commands can run in your command prompt/terminal without having to navigate to the python directory
+   
    ~\$python --version
 
    Expected output
