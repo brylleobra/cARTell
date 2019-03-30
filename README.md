@@ -4,6 +4,10 @@
 
 1. Install Python 3. Check if you have python installed in your local machine, make sure you have a correct python version
 
+   (if you have no python installed get the installer here https://www.python.org/downloads/release/python-372/)
+
+   <b>make sure to tick the checkbox "Add Python 3.7 to PATH" in installer </b>
+
    ~\$python --version
 
    Expected output
