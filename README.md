@@ -14,14 +14,14 @@
    ~\$python --version
 
    Expected output
-   (~\$Python 3.6.2) #Python 3.7.2 is also acceptable
+   (~\$Python 3.7.2) #Python 3.7.2 is also acceptable
 
 2. Install Pip for Python 3. After installation check the version
 
    ~\$pip3 --version
 
    Expected Output
-   pip 9.0.1 from .../lib/python3.6/... (python 3.6)
+   pip 9.0.1 from .../lib/python3.7/... (python 3.7)
 
 3. Install pipenv, python pip virtual environment, This is to create a separate python dependencies environment so that any installation to your local machine will not mess up your system
 
