@@ -1,5 +1,7 @@
 (~\$ This Symbol means in command prompt followed by a command)
 
+<b><h1>Python Setup</h1></b>
+
 1. Install Python 3. Check if you have python installed in your local machine, make sure you have a correct python version
 
    ~\$python --version
